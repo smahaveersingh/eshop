@@ -23,6 +23,8 @@ class App extends React.Component {
         <ProductsList cart={this.state.cart} />
         <Stripe />
         <Footer />
+      
+        
         
       </div>
     );

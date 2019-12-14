@@ -1,10 +1,19 @@
 @import url("https://fonts.googleapis.com/css?family=Lilita+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Kalam&display=swap");
 body {
-  background: red;
+  color: black;
+  background-color: black;
 }
 
 h1 {
   font-family: 'Lilita One', cursive;
   font-size: 50px;
+}
+
+p {
+  font-family: 'Kalam', cursive;
+  font-size: 30px;
+  color: black;
 }
 /*# sourceMappingURL=main.css.map */
