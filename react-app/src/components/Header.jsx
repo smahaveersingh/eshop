@@ -6,8 +6,8 @@ class Header extends React.Component {
   render() {
     return (
       <div className='jumbotron'>
-        <h1 className='display-4'>Product Shop</h1>
-        <p>A basic React app showing how products can be rendered from a JSON object retrieved from a PHP script</p>
+        <h1 className='display-4'>Sneaker Store</h1>
+        <p>Undisputed kings of sneakers!</p>
         <ViewCart cart={this.props.cart} />
       </div>
     );

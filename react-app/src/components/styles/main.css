@@ -1,4 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Lilita+One&display=swap");
 body {
-  background:red;
+  background: red;
+}
+
+h1 {
+  font-family: 'Lilita One', cursive;
+  font-size: 50px;
 }
 /*# sourceMappingURL=main.css.map */
